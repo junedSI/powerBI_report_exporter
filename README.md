@@ -77,7 +77,3 @@ This Python script allows exporting Power BI reports from a specified workspace 
 - Ensure that the access token used has the appropriate permissions for exporting reports.
 - Make sure the access token is valid and not expired during the export process.
 
-## Usage
-
-1. Set the required parameters in the script.
-2. Run the script to export the Power BI report.
