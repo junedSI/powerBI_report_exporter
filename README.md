@@ -55,8 +55,6 @@ The script will list all the reports in the specified Power BI workspace, then e
 
 ## Example
 
-# Power BI Report Export Script
-
 This Python script allows exporting Power BI reports from a specified workspace into PNG format.
 
 ## Parameters
